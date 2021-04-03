@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
 
-widget: people
+widget: pages
 headless: true
-weight=20
+weight: 20
 
 title: instructor
 
