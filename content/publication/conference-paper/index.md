@@ -36,7 +36,7 @@ featured: true
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://raw.githubusercontent.com/ZileZ/starter-research-group/main/content/publication/conference-paper/COMPUTER%20VISION%20A%20MODERN%20APPROACH.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
