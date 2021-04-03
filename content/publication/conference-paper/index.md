@@ -1,7 +1,6 @@
 ---
 title: "COMPUTER VISION: A MODERN APPROACH"
 authors:
-- admin
 - David A. Forsyth
 - Jean Ponce
 date: "November 5, 2011"
