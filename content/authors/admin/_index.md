@@ -6,7 +6,7 @@ title: 胡迪
 superuser: true
 
 # Role/position
-role: 高瓴人工智能学院助理教授
+role: 高瓴人工智能学院 助理教授
 
 # Organizations/Affiliations
 organizations:
