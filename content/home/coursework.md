@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 25
 
-title:"成绩考核"
+title:Coursework
 subtitle:
 
 design:
