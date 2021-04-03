@@ -23,7 +23,7 @@ advanced:
   css_class: fullscreen
 ---
 
-课堂签到 (10%)
+• 课堂签到 (10%)
 
 • Q & A (10%)
 
