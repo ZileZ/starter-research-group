@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://pan.baidu.com/s/17FI8meftlqae0HrKELjGgg
 url_code: ''
 url_dataset: ''
 url_poster: ''
