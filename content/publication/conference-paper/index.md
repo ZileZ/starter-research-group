@@ -3,11 +3,11 @@ title: "COMPUTER VISION: A MODERN APPROACH"
 authors:
 - David A. Forsyth
 - Jean Ponce
-date: "November 5, 2011"
+date: "2011"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "November 5, 2011"
+publishDate: "2011"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
