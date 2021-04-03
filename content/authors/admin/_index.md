@@ -21,9 +21,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: 本科-博士
+    institution: 西北工业大学
+    year: 2010-2019年
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
