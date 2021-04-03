@@ -1,5 +1,5 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: 第一次作业：对数字图像进行频域滤波
 date: 2021-03-21
 ---
 
