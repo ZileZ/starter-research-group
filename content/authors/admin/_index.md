@@ -17,9 +17,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 机器多模态感知与学习：以大脑的多通道知觉为背景，挖掘并探究多模态信息（如图像、声音、触觉等）在机器感知、推理与理解等方向的潜在问题与方法，让机器具备『多感官认知能力』。
 
 education:
   courses:
