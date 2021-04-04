@@ -13,7 +13,7 @@ publishDate: "2011"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["5"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Source Themes Conference*
@@ -29,8 +29,6 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
 url_pdf: https://pan.baidu.com/s/17FI8meftlqae0HrKELjGgg
 url_code: ''
 url_dataset: ''
