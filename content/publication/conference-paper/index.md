@@ -61,8 +61,6 @@ projects:
 slides:
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+点此下载课件及参考书目：
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+https://pan.baidu.com/s/17FI8meftlqae0HrKELjGgg
