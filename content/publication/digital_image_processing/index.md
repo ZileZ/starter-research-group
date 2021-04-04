@@ -60,3 +60,8 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides:
 ---
+
+
+点此下载课件及参考书目：
+
+https://pan.baidu.com/s/17FI8meftlqae0HrKELjGgg
