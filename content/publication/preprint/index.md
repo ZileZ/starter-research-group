@@ -28,8 +28,6 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
 url_pdf: https://pan.baidu.com/s/17FI8meftlqae0HrKELjGgg
 url_code: ''
 url_dataset: ''
