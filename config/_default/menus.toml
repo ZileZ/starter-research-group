@@ -14,7 +14,7 @@
   weight = 20
 
 [[main]]
-  name = "People"
+  name = "教学团队"
   url = "people"
   weight = 30
 
@@ -24,11 +24,6 @@
   weight = 40
 
 [[main]]
-  name = "Publications"
+  name = "课件及参考书目"
   url = "publication"
   weight = 50
-
-[[main]]
-  name = "Contact"
-  url = "contact"
-  weight = 60
