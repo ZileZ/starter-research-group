@@ -60,5 +60,6 @@ projects:
 slides:
 ---
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+点此下载课件及参考书目：
 
+https://pan.baidu.com/s/17FI8meftlqae0HrKELjGgg
